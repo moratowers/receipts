@@ -1,0 +1,6 @@
+3b5cf4df90921400c0ca26ccb930912a63564761d5142939a0d7f93a0432e333  PREREG.md (frozen or approved text; committed in git before 2026-10-24T01:51:09Z)
+05b5c0fe61aabd7819211c8074b587b4e0ac6abfa7f4df82d76a4bf9d4b52773  ADDENDUM_A.md (frozen or approved text; committed in git before 2026-10-24T01:51:09Z)
+4148a03cc545336a9e77fb173d464347134ddb4071dc16cdd4d9b1830ad45b8b  ADDENDUM_A1.md (frozen or approved text; committed in git before 2026-10-24T01:51:09Z)
+0c299bfa6448c7bc08fc4e3214226f0f02892205d00e69d0aa6953f7df25125f  ADDENDUM_A1_note1.md (frozen or approved text; committed in git before 2026-10-24T01:51:09Z)
+fa48f7bc8b3862884fba7ef25421c57998894c89635457656d01b318394e326f  ADDENDUM_A1_note2.md (frozen or approved text; committed in git before 2026-10-24T01:51:09Z)
+72585a60498420c58261c10475e3726bba351658125920c56de0a506decc5a96  ADDENDUM_A1_note3.md (frozen or approved text; committed in git before 2026-10-24T01:51:09Z)
